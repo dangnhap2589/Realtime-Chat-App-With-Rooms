@@ -1,1 +1,1 @@
-web: node public/script.js
+web: node script.js
