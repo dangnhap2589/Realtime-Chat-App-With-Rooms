@@ -1,4 +1,4 @@
-const socket = io('https://chatsocketio0004.herokuapp.com/')
+const socket = io('https://chatsocketio0004.herokuapp.com')
 const messageContainer = document.getElementById('message-container')
 const roomContainer = document.getElementById('room-container')
 const messageForm = document.getElementById('send-container')
